@@ -7,3 +7,4 @@ Purpose of this project is to efficiently summarize energy reports from the well
 - [EIA Environment](https://www.eia.gov/environment/)
 - [IEA Analysis](https://www.iea.org/analysis)
 - [IRENA Reports](https://www.irena.org/publications)
+- [The World Bank - Energy Publications](https://openknowledge.worldbank.org/discover?query=energy)
